@@ -1,0 +1,13 @@
+DISCLAIMER:
+
+The textures and images used in this repository's sample scenes may include materials derived from popular anime.
+
+These assets are:
+- Used solely for non-commercial demonstration purposes.
+- Not included in the distributed product or application.
+- Fully replaceable by the user.
+- Not intended to infringe on the rights of any content creators or copyright holders.
+
+If you are the copyright owner of any material and believe its use is not appropriate, please contact us and we will remove it immediately.
+
+We do not claim ownership over any copyrighted anime materials depicted in this project.
